@@ -1,0 +1,18 @@
+body {
+    width: 600px;
+    height: 400px;
+}
+
+#games {
+    display: none;
+}
+
+#gamesList {
+    font-size: small;
+    height: 200px;
+}
+
+#error {
+    color: #CC0000;
+    display: none;
+}
